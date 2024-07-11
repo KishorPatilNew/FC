@@ -6,7 +6,7 @@ Getting started :
 ------------------------------
 
 ```
-Make sure git is installed to clone the git repository from your local.
+Make sure git is installed to clone the git repository.
 
 git clone https://github.com/KishorPatilNew/FC.git
 
