@@ -39,12 +39,12 @@ Running the tests:
 ```
 Execute below commands to run the script. The script executes as Java application.
 From local terminal/command line
-1> cd <your_Workspace>\FC project directory
+1> cd <your_Workspace>\FC 
 2> mvn clean install
 3> mvn compile exec:java
 
-It will start running test locally by opening chrome browser and perform all the actions to find the fake gold bar.
-The output will be printed on console as below
+It will start running test locally by launching chrome browser and perform all the actions to find the fake gold bar.
+The output will be printed on console as below.
 
 ***************** Program Output ******************************
 Fake Gold Bar is Number :1
