@@ -1,6 +1,7 @@
 # FC
 Project the find Fake gold bar with minimum number of weighings for any possible
-fake bar position
+fake bar position.
+
 Getting started :
 ------------------------------
 
