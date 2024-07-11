@@ -80,7 +80,7 @@ public class DetectFakeBar {
 		}
 		
 		//Confirm the fake bar
-		System.out.println("***************** Program Output ******************************");
+		System.out.println("\n***************** Program Output ******************************");
 		System.out.println("Fake Gold Bar is Number :"+index);
 		clickFakeGoldBarButton(index);
 		
@@ -92,7 +92,7 @@ public class DetectFakeBar {
 		
 		// close driver session
 		driver.quit();
-		System.out.println("**** Program Ends!");
+		System.out.println("**** Program Ends!\n");
 	}
 	
 	/**
